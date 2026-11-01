@@ -24,9 +24,9 @@ O que explica o estouro de custo em cerca de 20 mil empreitadas de obras públic
 
 ### Ferramentas
 
-**Estatística e modelagem:** Python (pandas, statsmodels, scipy) · inferência, regressão, testes não paramétricos
-**Dados:** SQL (modelagem dimensional, CTEs, funções de janela) · pipelines reprodutíveis · Git
-**Comunicação:** matplotlib · Altair · Streamlit
+- **Estatística e modelagem:** Python (pandas, statsmodels, scipy) · inferência, regressão, testes não paramétricos
+- **Dados:** SQL (modelagem dimensional, CTEs, funções de janela) · pipelines reprodutíveis · Git
+- **Comunicação:** matplotlib · Altair · Streamlit
 
 ### Formação
 
